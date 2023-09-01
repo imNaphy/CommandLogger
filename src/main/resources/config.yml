@@ -1,0 +1,7 @@
+staff message: "<#FF0000>[!] <#FFFFFF>Comanda interzisa <#FFAA00>%command% <#FFFFFF>a fost executata de catre <#55FFFF>%player%<#FFFFFF>!"
+console message: "[!] Comanda interzisa %command% a fost executata de catre %player%!"
+
+blocked commands:
+  - "about"
+  - "op"
+  - "plugins"
